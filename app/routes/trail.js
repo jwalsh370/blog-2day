@@ -1,16 +1,17 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
+
   model() {
     return Ember.RSVP.hash({
-      blogs: this.store.findAll('blog')
+      trails: this.store.findAll('trail')
     });
   },
 
   actions: {
-    saveBlog(params) {
-      var newBlog = this.store.createRecord('blog', params);
-      newBlog.save();
+    saveTrail(params) {
+      var newTrail = this.store.createRecord('trail', params);
+      newTrail.save();
       this.transitionTo('index');
     }
   }
