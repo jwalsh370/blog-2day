@@ -12,16 +12,16 @@
     "name": "Angel's Rest Loop",
     "difficulty": "Hard",
     "image": "https://wyeastblog.files.wordpress.com/2013/08/angelsrestloop01.jpg",
-    "trail-link": "https://www.alltrails.com/trail/us/oregon/angels-rest-loop-trail"
+    "link": "https://www.alltrails.com/trail/us/oregon/angels-rest-loop-trail"
   }, {
     "name": "Trail of Ten",
     "difficulty": "Moderate",
     "image": "http://www.deanmyerson.org/files/photo%20archive/2013/sf/silverfalls%20013.jpg",
-    "trail-link": "http://www.deanmyerson.org/silver-falls"
+    "link": "http://www.deanmyerson.org/silver-falls"
   }, {
     "name": "Eagle Creek",
     "difficulty": "Moderate",
     "image": "http://jaysjourneys.com/wp-content/uploads/2011/06/3034164350_f009ba254c.jpg",
-    "trail-link": "http://jaysjourneys.com/2008/11/15/eagle-creek-trail-and-tunnel-falls/"
+    "link": "http://jaysjourneys.com/2008/11/15/and-tunnel-falls/"
     }]
 }

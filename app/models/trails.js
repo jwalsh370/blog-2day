@@ -4,5 +4,5 @@ export default DS.Model.extend({
   name: DS.attr(),
   difficulty: DS.attr(),
   image: DS.attr(),
-  trail-link: DS.attr(),
+  link: DS.attr()
 });
